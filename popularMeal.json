@@ -1,0 +1,19 @@
+{"categories":[
+    {
+        "strCategory":"Chicken",
+        "strCategoryThumb":"https:\/\/www.themealdb.com\/images\/ingredients\/Chicken.png"
+    },
+    {
+        "strCategory":"Salmon",
+        "strCategoryThumb":"https:\/\/www.themealdb.com\/images\/ingredients\/Salmon.png"
+    },
+    {
+        "strCategory":"Beef",
+        "strCategoryThumb":"https:\/\/www.themealdb.com\/images\/ingredients\/Beef.png"
+    },
+    {
+        "strCategory":"Pork",
+        "strCategoryThumb":"https:\/\/www.themealdb.com\/images\/ingredients\/Pork.png"
+    }
+]
+}
